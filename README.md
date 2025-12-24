@@ -2,7 +2,7 @@
 
 
 # structure
-、、、
+```
 kindergarten-system/
   src/
     app.js
@@ -20,4 +20,4 @@ kindergarten-system/
   package.json
   .env.example
   README.md
-、、、
+```
